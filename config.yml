@@ -1,0 +1,13 @@
+database:
+  host:
+    123.57.86.38
+  port:
+    5432
+  user:
+    postgres
+  password:
+    Ll789456
+  database:
+    test
+
+
